@@ -13,7 +13,7 @@ import Config.ERP_app;
 import ExcelFileUtil.Excelfileutil;
 
 
-public class Customertestcasescript extends ERP_app{
+public class TestNGCustomertestcasescript extends ERP_app{
 	
 	
 	
